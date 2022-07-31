@@ -23,3 +23,8 @@
          This is multicle comment
     ]]
 ``` 
+
+## Numbers 
+``` lua 
+local age = 10;
+```
