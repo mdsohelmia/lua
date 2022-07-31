@@ -27,3 +27,13 @@ print("hello world")
     This secound line string
  ]]
  print(address)
+
+ -- scope
+--[[ 
+   Lua by default decler variable golbal 
+   if you want to declare variable local scope use  `local keyword`
+]]
+
+Book = "Hello"
+
+print(Book)
