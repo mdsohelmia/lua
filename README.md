@@ -12,3 +12,8 @@
 ``` Lua
     print("Hello Lua Programming...")
 ```
+
+## Numbers 
+``` lua 
+local age = 10;
+```
